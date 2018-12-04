@@ -1,0 +1,25 @@
+{
+  "name": "pixel-perfect",
+  "version": "1.0.0",
+  "description": "pixel perfect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav-nandhan/pixelperfect.git"
+  },
+  "keywords": [
+    "pixelperfect"
+  ],
+  "author": "Keshav Nandhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshav-nandhan/pixelperfect/issues"
+  },
+  "homepage": "https://github.com/keshav-nandhan/pixelperfect#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
